@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kennedy Rhone</h1>
 <h3 align="center">A passionate Fullstack Web Developer from Boston</h3>
 
-- 🔭 I’m currently working on **weather app**
+- 🔭 I’m currently working on **Asylum Website**
 
 - 🌱 I’m currently learning **mySQL,SQL,AWS Lamba**
 
